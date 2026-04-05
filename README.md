@@ -16,6 +16,7 @@
 ---
 
 ## 3. Mô tả ngắn hệ thống
+
 Hệ thống triển khai dưới dạng **FastAPI application** với các endpoint:
 
 - `GET /`: mô tả ngắn API
@@ -23,8 +24,7 @@ Hệ thống triển khai dưới dạng **FastAPI application** với các endp
 - `POST /generate`: nhận dữ liệu đầu vào và sinh văn bản bằng mô hình Hugging Face
 
 API trả kết quả ở định dạng JSON, có kiểm tra dữ liệu đầu vào và xử lý lỗi cơ bản.
-
----
+Hệ thống là một ứng dụng FastAPI tích hợp mô hình Qwen/Qwen3-0.6B trên Hugging Face để sinh văn bản tiếng Việt từ câu lệnh người dùng.
 
 ## 4. Cấu trúc thư mục
 ```text
