@@ -4,7 +4,7 @@
 - Họ tên: **[Trần Minh Tiến]**
 - MSSV: **[24120465]**
 - Lớp: **[Tư duy tính toán - 24CTT 3]**
-- GitHub: **[Điền link GitHub cá nhân]**
+- GitHub: **[https://github.com/trantien1301]**
 
 ---
 
