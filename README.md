@@ -1,4 +1,3 @@
-# Lab1
 # Lab 1 - FastAPI + Hugging Face Text Generation
 
 ## 1. Thông tin sinh viên
