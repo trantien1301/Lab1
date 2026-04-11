@@ -34,7 +34,7 @@ class GenerationInput(BaseModel):
 
 @app.get("/", tags=["General"])
 def read_root():
-    return {"message": "Chào mừng đến Text Generation API. Dùng POST /generate."}
+    return {"message": "Chào mừng đến Text Generation API. Dùng POST /docs."}
 
 
 @app.get("/health", tags=["General"])
