@@ -1,9 +1,3 @@
-
-# # --- Hướng dẫn chạy ---
-# # 1. Lưu file này với tên là main.py.
-# # 2. Mở terminal trong cùng thư mục.
-# # 3. Chạy lệnh: uvicorn main:app --reload
-
 # main.py
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel, Field
